@@ -1,0 +1,18 @@
+[submodule "hackathon_GoogleCloud"]
+	path = hackathon_GoogleCloud
+	url = https://github.com/AntoineMellerio/hackathon_GoogleCloud.git
+[submodule "1_machine_learning/interest_rate_strategy"]
+	path = 1_machine_learning/interest_rate_strategy
+	url = https://github.com/Windu12345/Fintech_Project.git
+[submodule "3_nlp/NER_medical_report"]
+	path = 3_nlp/NER_medical_report
+	url = https://github.com/camkatf/hec-quinten-group5-team1.git
+[submodule "2_deep_learning/image_classification"]
+	path = 2_deep_learning/image_classification
+	url = https://github.com/MRL1998/MCK_Silos.git
+[submodule "2_deep_learning/classification_segmentation_McKinsey"]
+	path = 2_deep_learning/classification_segmentation_McKinsey
+	url = https://github.com/MRL1998/MCK_Silos.git
+[submodule "1_machine_learning/regression-waiting-line-ElevenStrategy"]
+	path = 1_machine_learning/regression-waiting-line-ElevenStrategy
+	url = https://github.com/AntoineMellerio/regression-waiting-line-ElevenStrategy.git

@@ -1,0 +1,11 @@
+TRAIN_TEST_PATH : '/home/jovyan/hfactory_magic_folders/tooling_for_the_data_scientist/group_shared_workspace/hufflepuff_project/train_test'
+EVAL_PATH : '/home/jovyan/hfactory_magic_folders/tooling_for_the_data_scientist/group_shared_workspace/hufflepuff_project/validation'
+EVAL_ID_PATH : '/home/jovyan/hfactory_magic_folders/tooling_for_the_data_scientist/deepfakes_detection/test.csv'
+
+IMAGE_SIZE : [180, 180]
+BATCH_SIZE : 32
+N_EPOCHS : 1
+
+TEST_DATA_PATH: '/builds/unit-test-group4/group4-deepfakes-detection/tests/data/train_test'
+TEST_EVAL_PATH: '/builds/unit-test-group4/group4-deepfakes-detection/tests/data/validation'
+TEST_EVAL_ID_PATH: '/builds/unit-test-group4/group4-deepfakes-detection/tests/data/test.csv'
