@@ -59,14 +59,3 @@ Leave them in the same folder.
   * Start debugging with F5
   * Stop debugging with Shift-F5
 
-## Authors
-🚹
-  Zidi Yang: zidi.yang@hec.edu 
-  Milos Basic: milos.basic@hec.edu
-  Antoine Mellerio: antoine.mellerio@hec.edu
-  Camille Epitalon: camille.epitalon@hec.edu
-  Augustin de La Brosse: augustin.de-la-brosse@hec.edu
-  Michael Liersch: michael.liersch@hec.edu
-
-## Feedback
-📥 If you have any feedback, please reach out to us !!!
